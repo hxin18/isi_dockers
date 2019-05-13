@@ -74,7 +74,7 @@ producer.send('test_rhj', msg)
 
 shut down server
 
-```pytnon
+```python
 msg_dict ={"method":"exit"}
 msg = json.dumps(msg_dict)
 producer.send('test_rhj', msg)

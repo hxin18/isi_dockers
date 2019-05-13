@@ -1,0 +1,4 @@
+kafka-python
+sklearn
+nltk
+numpy

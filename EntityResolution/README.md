@@ -1,4 +1,4 @@
-# situation_cluster_naming
+# Entity resolution
 This program take the dataset json line file and out put the entity resolution for the GPE of the tweet.
 
 ## Format
